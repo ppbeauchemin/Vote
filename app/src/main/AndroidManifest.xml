@@ -15,7 +15,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".FullDisplayActivity"></activity>
+        <activity
+            android:name=".FullDisplayActivity"></activity>
     </application>
 
 </manifest>
